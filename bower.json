@@ -1,0 +1,24 @@
+{
+  "name": "font-notosansjapanese",
+  "version": "1.0.0",
+  "description": "An HTML import for Noto Sans Japanese",
+  "authors": [
+    "Daisuke Takahashi"
+  ],
+  "keywords": [
+    "font",
+    "noto",
+    "sans",
+    "japanese"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shield-9/font-notosansjapanese.git"
+  },
+  "main": notosansjapanese".html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/shield-9/font-notosansjapanese/",
+  "ignore": [
+    "/.*"
+  ]
+}
