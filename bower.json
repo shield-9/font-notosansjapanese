@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git://github.com/shield-9/font-notosansjapanese.git"
   },
-  "main": notosansjapanese".html",
+  "main": "notosansjapanese.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/shield-9/font-notosansjapanese/",
   "ignore": [
